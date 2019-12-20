@@ -6,4 +6,9 @@ Please make sure you have your development environment set up. As of the 2019 se
 
 **Clone** the repository to your local computer.
 
-Create a new **Branch** called [yourname]-Private
+Create a new **Branch** called [yourname]-Private. This is your branch, any commits here will only be seen by you. 
+
+Once you are ready to commit to either a feature branch or the master branch, open a **Pull Request**. All commits from a private branch will be squashed. 
+
+If you are authorizing a pull request to a feature branch, please make sure to leave a proper commit message, as outlined [here](https://chris.beams.io/posts/git-commit/#seven-rules)
+
